@@ -14,10 +14,12 @@ the simple start up procedure on install.
 
 ## Usage:
 Walkthrough Video: 
+[Social-Network-API.webm](https://user-images.githubusercontent.com/112823750/221386261-eec08529-089d-4532-aebe-a1a3a6668b23.webm)
 
 
 
 
 ## Links:
 [Github Repo](https://github.com/jon-dev092/social-network-api)
+
 
